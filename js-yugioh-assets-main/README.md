@@ -4,6 +4,6 @@ Jogo de jokenpo que criado para explicar conceitos de lógica de programação a
 
 ## Conceitos Abordados
 
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
+- Armazenamento e gerenciamento de estado manual;
+- Funções limpas;
+- Organização de código.
